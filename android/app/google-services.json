@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "973429491164",
+    "firebase_url": "https://mamatender-79ae1-default-rtdb.firebaseio.com",
+    "project_id": "mamatender-79ae1",
+    "storage_bucket": "mamatender-79ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973429491164:android:03bf64f5f43bace2963b19",
+        "android_client_info": {
+          "package_name": "com.arrows.mamatender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973429491164-0buvkpi36h5gskujt9u2b5n652ng9736.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender",
+            "certificate_hash": "580f0f486ca58ca502dbeb39b4056e68b91cd9f5"
+          }
+        },
+        {
+          "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQhPpajHTIocza-TkdJm9dnqcscra_vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973429491164-798svsfovemdrfi5s23cqr3q4n0nl0dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arrows.mamatender"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973429491164:android:181b1d3b2c09439f963b19",
+        "android_client_info": {
+          "package_name": "com.arrows.mamatender_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973429491164-6ukkjpmghmfvt2jhju4smvft4gvl0qt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender_dashboard",
+            "certificate_hash": "9d9cfcfee276b8602b8a2a170575eaffa38097ef"
+          }
+        },
+        {
+          "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQhPpajHTIocza-TkdJm9dnqcscra_vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973429491164-798svsfovemdrfi5s23cqr3q4n0nl0dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arrows.mamatender"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973429491164:android:f70c600f9c9d235f963b19",
+        "android_client_info": {
+          "package_name": "com.arrows.mamatender_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973429491164-7693a5qacv9ldspduh0d62u7tirqjsdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender_user",
+            "certificate_hash": "9d9cfcfee276b8602b8a2a170575eaffa38097ef"
+          }
+        },
+        {
+          "client_id": "973429491164-7t80ktlljehaq3b744m797ojmfl8cb37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender_user",
+            "certificate_hash": "158ef31071e8c5f1acab082591f94b47c766f1d3"
+          }
+        },
+        {
+          "client_id": "973429491164-nard1u11nd96vb64bgu9lr33q5bgq3ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender_user",
+            "certificate_hash": "3ca3a132f13cc8cb7fade09711f2f3a65782c5d6"
+          }
+        },
+        {
+          "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQhPpajHTIocza-TkdJm9dnqcscra_vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973429491164-re81fdj1dud8popspl9s4glhfr75sjhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973429491164-798svsfovemdrfi5s23cqr3q4n0nl0dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arrows.mamatender"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

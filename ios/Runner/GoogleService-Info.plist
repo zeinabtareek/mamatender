@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973429491164-k7fm658fqbsmt41h1p728gms2b0fjtqq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973429491164-k7fm658fqbsmt41h1p728gms2b0fjtqq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>973429491164-0buvkpi36h5gskujt9u2b5n652ng9736.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMEhSdcTPT8cx_zPabDAj8ncz6BEM_wzE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973429491164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arrows.mamastender</string>
+	<key>PROJECT_ID</key>
+	<string>mamatender-79ae1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mamatender-79ae1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973429491164:ios:f13bd79239323788963b19</string>
+	<key>DATABASE_URL</key>
+	<string>https://mamatender-79ae1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
